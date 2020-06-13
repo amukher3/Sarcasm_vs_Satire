@@ -9,7 +9,7 @@ to give the same word different meaning based on their relative usage in a text.
 This is an effort to solve the problem in a generalised manner so that it generalizes to any english language text, having class ratios
 of any order with sentences of various lenghts. 
 
-This is still 'work in progress' with a test-set accuracy of around 0.73 in a medium sized corpus. I am hoping, in future this might lead to a open source contribution in the form of some kind of API. 
+This is still 'work in progress' with a test-set accuracy of around 0.73 in a medium sized corpus. I am hoping, in future this might lead to a open source contribution in the form of some kind of API. With the betterment of accuracy and a possible better metric for measuring accuracy this might turn out to be an important milestone in affect recognition. 
 
 ***Commit history is in my Bit-bucket account***
 
