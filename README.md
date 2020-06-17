@@ -15,6 +15,8 @@ This is still 'work in progress' with a test-set accuracy of around 0.73 in a me
 
 `Any query/question/concerns can be addressed to: abhi0787@gmail.com ,amukher3@rockets.utoledo.edu`
 
+***Author:Abhishek Mukherjee***
+
 
 
 
