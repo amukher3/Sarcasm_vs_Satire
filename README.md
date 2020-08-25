@@ -11,6 +11,8 @@ of any order with sentences of various lenghts.
 
 This is still 'work in progress' with a test-set accuracy of around 0.73 in a medium sized corpus. I am hoping, in future this might lead to a open source contribution in the form of some kind of API. With the betterment of accuracy this might turn out to be an important milestone in affect recognition. 
 
+***Update:BERT gives an accuracy of around 0.79 in a decently sized validation corpus.***
+
 ***Commit history is in my Bit-bucket account***
 
 `Any query/question/concerns can be addressed to: abhi0787@gmail.com ,amukher3@rockets.utoledo.edu`
